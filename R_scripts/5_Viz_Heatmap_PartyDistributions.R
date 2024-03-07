@@ -74,4 +74,4 @@ Top_20_Terms <- apply(terms(topmod, 20), 2, paste, collapse = ", ")
 LabelTerms <- data.frame(Labels, Top_20_Terms)
 
 knitr::kable(LabelTerms, format = "html") %>% 
-  cat(file = "data_table.html")
+  cat(file = "TopicsAndTerms.html")
