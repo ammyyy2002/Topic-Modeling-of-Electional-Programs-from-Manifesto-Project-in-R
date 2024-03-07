@@ -18,15 +18,14 @@ tmResult <- posterior(topmod)
 attributes(tmResult)
 terms(topmod, 20)
 
-# Pseudonamen erstellen:
-top5termsPerTopic <- terms(topmod, 5)
+# Pseudonamen
+top5termsPerTopic <- terms(topicModel, 5)
 topicNames <- apply(top5termsPerTopic, 2, paste, collapse = " ")
 
 # Verteilungen berechnen und einsehen:
 beta <- tmResult$terms
 dim(beta)
 theta <- tmResult$topics
-dim(theta)
 
 # Visualisierung mit LDAvis:
 svd_tsne <- function(x) tsne(svd(x)$u)
@@ -37,5 +36,4 @@ serVis(json) # Weiterleitung zur Website
 
 # Topics ranken
 topicProportions <- colSums(theta) / nrow(DTM)
-#names(topicProportions) <- topicNames
 sort(topicProportions, decreasing = TRUE)

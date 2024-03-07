@@ -1,0 +1,51 @@
+1) Arbeitsmarktpolitik [Arbeitsverhältnisse, Gewerkschaften]
+2) Außenpolitik [Welthandel, Entwicklungsländer, Abkommen]
+3) Wohnen und Stadtentwicklung
+4) Bankenkrise und -aufsicht
+5) Selbstständigkeit [Innovation, Handwerk, Arbeitsplätze]
+6) Außenpolitik [Menschenrechte, Globalisierung]
+7) Umweltpolitik [Klima, Energiewende]
+8) gesellschaftlicher Wandel [Freiheit, Wohlstand, Sicherheit]
+9) Familienpolitik
+10) Außenpolitik [Frieden, Sicherheit, Konflikte]
+11) gesellschaftliches Engagement fördern [Sport, Kirche]
+12) Inklusion [Pflege, Arbeitsmarkt]
+13) selbstständige Altersvorsorge
+14) Sozialpolitik [Rentenversicherung]
+15) Umweltpolitik [Klimaschutz, CO2, Atomenergie]
+16) Innere Sicherheit [Polizei, Rechtsstaat, Terrorismus]
+17) Koalition, Erneuerung, Herausforderung
+18) Jugendpoitik und -förderung
+19) Asyl- und Geflüchtetenpolitik
+20) Bundeswehr, Abrüstung, Rüstungsexporte
+21) Innere Sicherheit [Kriminalität, Strafrecht]
+22) Europapolitik [Türkei, Zusammenarbeit]
+23) Umweltpolitik [Naturschutz]
+24) Datenschutz und Digitalisierung
+25) Demokratie [Transparenz, Wahlen]
+26) Verbraucherschutz [Lebensmittel]
+27) Wissenschaftsförderung [Innovation]
+28) Gesundheitspolitik und -system
+29) Erinnerungskultur [DDR, NS-Zeit, Sinti & Roma]
+30) Sozialpolitik [Arbeitslosigkeit, Grundsicherung]
+31) Wettbewerb, Privatisierung, Reform
+32) Ostpolitik und Förderung
+33) Finanzpolitik [Investitionen, Schuldenpolitik]
+34) Finanzpolitik [Steuern, Entlastung, Erhöhung]
+35) Bildungspolitik [betriebliche Ausbildungsförderung]
+36) Bildungspolitik [Schulsystem, Kita]
+37) Gendergerechtigkeit und Selbstbestimmung
+38) Außenpolitik [Entwicklungszusammenarbeit, Hilfe]
+39) Zukunfttechnologien [Wettbewerb, Umwelt]
+40) Umweltpolitik [Umwelt- und Naturschutz]
+41) Diskriminierung und Gleichberechtigung
+42) Verkehrspolitik
+43) Grundrechte [Freiheit, Religion, Toleranz, Schutz]
+44) Wissenschaft und Ausbildungsförderung
+45) Kulturpolitik
+46) Rechtsextremismus bekämpfen
+47) Agrarpolitik und Tierschutz
+48) Medien und Rundfunk
+49) Gleichstellungspolitik
+50) Kommunalpolitik
+51) Drogenpolitik und -prävention
