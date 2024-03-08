@@ -67,11 +67,15 @@ ggplot(vizDataFrame_grüne, aes(x = wahljahr, y = variable, fill = value)) +
 
 #######################################################################
 
-# Tabelle aus Topic-Label und Top10-Termen
-library(knitr)
+# Tabelle aus Topic-Label und Top20-Termen
 
 Top_20_Terms <- apply(terms(topmod, 20), 2, paste, collapse = ", ")
 LabelTerms <- data.frame(Labels, Top_20_Terms)
 
-knitr::kable(LabelTerms, format = "html") %>% 
-  cat(file = "TopicsAndTerms.html")
+file1 <- file("Top20Terms.txt", open = "w")
+
+for (i in 1:nrow(LabelTerms)) {
+  line <- paste(LabelTerms$Labels[i], LabelTerms$Top_20_Terms[i], sep = "\n")
+  writeLines(line, file1)
+  writeLines("\n\n", file1)
+}

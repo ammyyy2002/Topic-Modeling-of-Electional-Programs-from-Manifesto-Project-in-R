@@ -5,7 +5,7 @@ library("tsne")
 
 # optimale Anzahl der Topics bestimmt ("AnzahlTopicsBerechnen.R") und validiert
 # http://rpubs.com/siri/ldatuning 
-K <- 50
+K <- 51
 
 topmod <- LDA(DTM, K, method="Gibbs", control=list(
   iter = 500,
@@ -19,7 +19,7 @@ attributes(tmResult)
 terms(topmod, 20)
 
 # Pseudonamen
-top5termsPerTopic <- terms(topicModel, 5)
+top5termsPerTopic <- terms(topmod, 5)
 topicNames <- apply(top5termsPerTopic, 2, paste, collapse = " ")
 
 # Verteilungen berechnen und einsehen:

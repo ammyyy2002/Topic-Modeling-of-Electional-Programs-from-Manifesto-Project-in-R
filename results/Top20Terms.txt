@@ -1,0 +1,255 @@
+1) Arbeitsmarktpolitik [Arbeitsverhältnisse, Gewerkschaften]
+beschäftigter, mitbestimmung, arbeitnehmer, betrieb, arbeitsplatz, arbeitszeit, mindestlohn, beschäftigung, arbeitgeber, möglichkeit, tarifvertrag, gewerkschaft, arbeitnehmerinnen_arbeitnehmer, arbeitszeitverkürzung, arbeitsbedingung, job, arbeitsmarkt, arbeitswelt, branche, betriebsrat
+
+
+
+2) Außenpolitik [Welthandel, Entwicklungsländer, Abkommen]
+eu, rahmen, handel, wto, markt, entwicklungsland, standard, umwelt, menschenrecht, welthandel, verhandlung, abkomme_abkommen, ziel, welthandelsorganisation, entwicklung, binnenmarkt, regel_regeln, produkt, wettbewerb, zugang
+
+
+
+3) Wohnen und Stadtentwicklung
+wohnung, miete, stadt, wohnungsbau, wohnen, wohnraum, förderung, bau, neubau, wohneigentum, wohngeld, kommune, modernisierung, sanierung, kosten, gebäude, haus, mieterinnen, bestand, vermieter
+
+
+
+4) Bankenkrise und -aufsicht
+bank, risiko, finanzmarkt, regel_regeln, euro, gewinn, aufsicht, europäisch, transparenz, krise, wettbewerb, steuerhinterziehung, frei_demokrat, haftung, konzern, markt, geld, ebene, kontrolle, regel
+
+
+
+5) Selbstständigkeit [Innovation, Handwerk, Arbeitsplätze]
+mittelstand, arbeitsplatz, handwerk, wirtschaft, rahmenbedingung, innovation, dienstleistung, förderung, gründung, hand, selbständigkeit, selbständige, gründer, bürokratie, klein, existenzgründung, idee, existenzgründer, tourismus, zugang
+
+
+
+6) Außenpolitik [Menschenrechte, Globalisierung]
+welt, menschenrecht, frieden, globalisierung, entwicklung, verantwortung, interesse, armut, aussenpolitik, demokratie, wohlstand, herausforderung, solidarität, gerechtigkeit, krieg, zusammenarbeit, freiheit, zukunft, hungern, konflikt
+
+
+
+7) Umweltpolitik [Klima, Energiewende]
+energie, energiewende, strom, energieversorgung, nutzung, ausbau, klimaschutz, förderung, energieträger, energieeffizienz, wärme, erneuerbare_energien, öl, wind, prozent, energiepolitik, sonne, kohle, gas, eeg
+
+
+
+8) gesellschaftlicher Wandel [Freiheit, Wohlstand, Sicherheit]
+freiheit, bildung, leben, zukunft, wohlstand, sicherheit, bürger, teilhabe, generation, voraussetzung, entwicklung, verantwortung, wandel, aufgabe, welt, herausforderung, wirtschaft, liberal, grundlage, gerechtigkeit
+
+
+
+9) Familienpolitik
+familie, eltern, ehe, einkommen, kindergeld, alleinerziehend, kinderbetreuung, verantwortung, leben, unterstützung, kindergrundsicherung, betreuung, mutter, paar, ehegattensplitting, vater, beruf, erwerbsarbeit, anspruch, ausbau
+
+
+
+10) Außenpolitik [Frieden, Sicherheit, Konflikte]
+vereint_nation, sicherheit, frieden, menschenrecht, eu, nato, zusammenarbeit, konflikt, aussenpolitik, verantwortung, stärkung, rußland, welt, vn, osze, dialog, f.d.p, un, ziel, rahmen
+
+
+
+11) gesellschaftliches Engagement fördern [Sport, Kirche]
+sport, engagement, verein_vereinen, doping, verein, förderung, bedeutung, kirche, organisation, initiative, rahmenbedingung, million, ehrenamt, spitzensport, stiftung, bürger, verband, zivilgesellschaft, beitrag, integration
+
+
+
+12) Inklusion [Pflege, Arbeitsmarkt]
+pflege, behinderung, leben, angehörige, teilhabe, hilfe, angebot, unterstützung, selbstbestimmung, leistung, pflegeversicherung, pflegebedürftige, barrierefreiheit, arbeitsmarkt, alter, einrichtung, behindert, ausbildung, budget, bedürfnis
+
+
+
+13) selbstständige Altersvorsorge
+altersvorsorge, frei_demokrat, förderung, möglichkeit, selbstständige, riester, rendit, rent, entscheidung, kriterium, bürger, wechsel, bürgerinnen_bürger, anspruch, form, selbständigkeit, rechtssicherheit, verfügung, arbeitgeber, risiko
+
+
+
+14) Sozialpolitik [Rentenversicherung]
+rent, rentenversicherung, alter, alterssicherung, beitrag, finanzierung, generation, leistung, grundsicherung, vorsorge, selbständige, sicherheit, absicherung, schritt, reform, altersvorsorge, sozialversicherung, bürgerversicherung, sicherung, armut
+
+
+
+15) Umweltpolitik [Klimaschutz, CO2, Atomenergie]
+co2, klimaschutz, ziel, emissionshandel, nutzung, prozent, atomkraftwerk, emission, klima, eu, ausstoß, energie, ausstieg, kernenergie, atomausstieg, preis, klimaziel, massnahmen, atomenergie, kohlekraftwerk
+
+
+
+16) Innere Sicherheit [Polizei, Rechtsstaat, Terrorismus]
+polizei, sicherheit, kriminalität, schutz, aufgabe, sicherheitsbehörde, zusammenarbeit, kontrolle, bürger, verfassungsschutz, rechtsstaat, gesetz, straftat, bekämpfung, überwachung, bund, grundrecht, terrorismus, nachrichtendienst, bürgerinnen_bürger
+
+
+
+17) Koalition, Erneuerung, Herausforderung
+zukunft, gerechtigkeit, demokratie, regierung, wirtschaft, kraft, koalition, partei, cdu_csu, sicherheit, wandel, erneuerung, sozialdemokrat, verantwortung, bürgerinnen_bürger, krise, herausforderung, mehrheit, freiheit, kohl
+
+
+
+18) Jugendpoitik und -förderung
+jugendliche, engagement, leben, alt, generation, förderung, jugendarbeit, jung, hilfe, jugendpolitik, ältere, jugend, angebot, zukunft, erfahrung, teilhabe, freiwilligendienst, alter, junge, entwicklung
+
+
+
+19) Asyl- und Geflüchtetenpolitik
+integration, flüchtling, eu, asyl, zuwanderung, schutz, einwanderung, asylrecht, regelung, ausländer, flüchtlingspolitik, zugang, familie, abschiebung, möglichkeit, anerkennung, bundesrepublik, leben, aufnahme, asylverfahren
+
+
+
+20) Bundeswehr, Abrüstung, Rüstungsexporte
+bundeswehr, abrüstung, nato, waffe, streitkraft, bundesrepublik, soldat, ziel, wehrpflicht, frieden, einsatz, rahmen, welt, krieg, rüstungsexport, atomwaffe, aufgabe, rüstungskontrolle, abschaffung, sicherheit
+
+
+
+21) Innere Sicherheit [Kriminalität, Strafrecht]
+justiz, opfer, kriminalität, verfahren, straftat, gewalt, gericht, ursache, bekämpfung, aufgabe, sicherheit, massnahmen, ausbau, rechtsstaat, täter, strafe, strafrecht, möglichkeit, waffe, schutz
+
+
+
+22) Europapolitik [Türkei, Zusammenarbeit]
+eu, europäisch, europäisch_union, türkei, europäisch_parlament, mitgliedstaat, reform, ebene, integration, rahmen, zusammenarbeit, binnenmarkt, vertrag, erweiterung, stabilität, regierung, union, frei_demokrat, bürgerinnen_bürger, mitglied
+
+
+
+23) Umweltpolitik [Naturschutz]
+natur, naturschutz, schutz, wald, vielfalt, nutzung, fläche, umwelt, massnahmen, art, tourismus, boden, lebensraum, vorrang, tier, erhalt, landschaft, ziel, entwicklung, artenvielfalt
+
+
+
+24) Datenschutz und Digitalisierung
+datum, datenschutz, frei_demokrat, digitalisierung, internet, schutz, verwaltung, open, standard, it, infrastruktur, software, bürgerinnen_bürger, information, netz, behörde, bürger, plattform, digital, nutzung
+
+
+
+25) Demokratie [Transparenz, Wahlen]
+demokratie, parlament, partei, transparenz, entscheidung, beteiligung, bürger, ebene, bundestag, bürgerinnen_bürger, wahl, möglichkeit, öffentlichkeit, abgeordnete, wahlrecht, kommission, deutsch_bundestag, einfluß, verwaltung, kontrolle
+
+
+
+26) Verbraucherschutz [Lebensmittel]
+verbraucherinnen_verbraucher, produkt, verbraucher, lebensmittel, verbraucherschutz, information, verbraucherpolitik, markt, transparenz, verbraucherinnen, anbieter, kennzeichnung, ernährung, schutz, kunde, interesse, kontrolle, wettbewerb, verbraucherrechte, gerät
+
+
+
+27) Wissenschaftsförderung [Innovation]
+forschung, wissenschaft, innovation, entwicklung, forschung_entwicklung, wirtschaft, hochschule, technologie, förderung, forschungsförderung, fortschritt, technik, forschungseinrichtung, zukunft, ziel, wissenschaftler, produkt, prozent, kooperation, risiko
+
+
+
+28) Gesundheitspolitik und -system
+versorgung, gesundheitswese, patient, gesundheit, leistung, gesundheitssystem, krankenversicherung, patientinnen_patient, krankheit, krankenhaus, krankenkasse, prävention, gesundheitsversorgung, wettbewerb, pflege, behandlung, qualität, arzt, finanzierung, versichert
+
+
+
+29) Erinnerungskultur [DDR, NS-Zeit, Sinti & Roma]
+ddr, geschichte, aufarbeitung, opfer, bundesrepublik, sed, ns, diktatur, berlin, unrecht, nationalsozialismus, verantwortung, brd, erinnerung, sinto, entwicklung, regierung, umgang, roma, rückgabe
+
+
+
+30) Sozialpolitik [Arbeitslosigkeit, Grundsicherung]
+arbeitsmarkt, grundsicherung, leistung, arbeitslosigkeit, bürgergeld, arbeitslosengeld, beschäftigung, sozialhilfe, arbeitslose, arbeitsmarktpolitik, armut, einkommen, euro, anspruch, arbeitsplatz, teilhabe, langzeitarbeitslose, ziel, system, sozialleistung
+
+
+
+31) Wettbewerb, Privatisierung, Reform
+f.d.p, wettbewerb, gesetz, bürger, regelung, aufgabe, bundesland, dienst, privatisierung, reform, ebene, bürokratie, bund, ziel, interesse, abbau, verwaltung, kosten, verbesserung, liberal
+
+
+
+32) Ostpolitik und Förderung
+ostdeutschland, region, arbeitsplatz, bundesland, investition, förderung, infrastruktur, aufbau, wirtschaft, ost, ost_west, einheit, osten, ausbau, ziel, verbesserung, solidarpakt, west, aufbau_ost, schaffung
+
+
+
+33) Finanzpolitik [Investitionen, Schuldenpolitik]
+krise, wirtschaft, wachstum, haushalt, investition, wohlstand, schuld, zukunft, finanz, geld, bildung, generation, erfolg, sozial_marktwirtschaft, nachhaltigkeit, prozent, folge, stabilität, ausgabe, reform
+
+
+
+34) Finanzpolitik [Steuern, Entlastung, Erhöhung]
+einkommen, euro, steuern, prozent, steuer, finanzierung, besteuerung, dm, bürger, entlastung, einkommensteuer, steuerreform, senkung, subvention, steuersystem, erhöhung, steuerrecht, beitrag, haushalt, belastung
+
+
+
+35) Bildungspolitik [betriebliche Ausbildungsförderung]
+ausbildung, weiterbildung, bildung, jugendliche, beruf, betrieb, schule, qualifikation, förderung, qualifizierung, ausbildungsplatz, berufsausbildung, system, wirtschaft, beschäftigter, auszubildende, arbeitsmarkt, zukunft, ziel, arbeitsplatz
+
+
+
+36) Bildungspolitik [Schulsystem, Kita]
+schule, bildung, eltern, jugendliche, förderung, lernen, angebot, bund, bildungseinrichtung, qualität, kita, bildungssystem, lehrer, schüler, ziel, ausbau, schülerin_schüler, kindergarten, möglichkeit, kitas
+
+
+
+37) Gendergerechtigkeit und Selbstbestimmung
+gewalt, schutz, mädchen, leben, hilfe, beratung, opfer, täter, vergewaltigung, aufklärung, finanzierung, schwangerschaft, selbstbestimmung, streichung, druck, zugang, strafgesetzbuch, schwangerschaftsabbruch, unversehrtheit, verfolgung
+
+
+
+38) Außenpolitik [Entwicklungszusammenarbeit, Hilfe]
+entwicklung, entwicklungszusammenarbeit, entwicklungspolitik, zusammenarbeit, entwicklungsland, ziel, hilfe, armut, förderung, süden, prozent, rahmen, beitrag, aufbau, bekämpfung, menschenrecht, afrika, initiative, massnahmen, entwicklungshilfe
+
+
+
+39) Zukunfttechnologien [Wettbewerb, Umwelt]
+wirtschaft, arbeitsplatz, produkt, innovation, markt, wettbewerb, zukunft, technologie, wachstum, investition, industrie, dienstleistung, energie, umwelt, ressource, marktwirtschaft, umweltschutz, rohstoff, entwicklung, modernisierung
+
+
+
+40) Umweltpolitik [Umwelt- und Naturschutz]
+umwelt, luft, umweltschutz, natur, schutz, boden, wasser, lebensgrundlage, stoff, produktion, erde, ressource, folge, welt, leben, verbot, industrie, umweltpolitik, grundlage, grenzwert
+
+
+
+41) Diskriminierung und Gleichberechtigung
+diskriminierung, herkunft, geschlecht, minderheit, vielfalt, gleichstellung, lesben, schwule, identität, religion, gleichberechtigung, behinderung, grundgesetz, menschenrecht, teilhabe, respekt, orientierung, ausgrenzung, freiheit, alter
+
+
+
+42) Verkehrspolitik
+mobilität, verkehr, bahn, schiene, auto, ausbau, infrastruktur, öpnv, strasse, verkehrspolitik, stadt, verkehrsmittel, verkehrsträger, straße, ziel, schienennetz, zukunft, flughafen, bus, verkehrsinfrastruktur
+
+
+
+43) Grundrechte [Freiheit, Religion, Toleranz, Schutz]
+freiheit, f.d.p, liberal, bürger, grundgesetz, rechtsstaat, grundrecht, kirche, verfassung, religion, verantwortung, demokratie, partei, toleranz, schutz, liberale, art, religionsgemeinschaft, aufgabe, voraussetzung
+
+
+
+44) Wissenschaft und Ausbildungsförderung
+hochschule, studierende, studium, lehre, bafög, wettbewerb, fachhochschule, forschung, möglichkeit, abschluß, studiengang, bund, wissenschaft, ziel, ausbildung, zugang, universität, einführung, qualität, nachwuchs
+
+
+
+45) Kulturpolitik
+kultur, kulturpolitik, kunst, förderung, bund, bildung, vielfalt, kunst_kultur, einrichtung, raum, künstler, freiheit, initiative, liberal, kulturförderung, grundlage, rahmenbedingung, erbe, zugang, entwicklung
+
+
+
+46) Rechtsextremismus bekämpfen
+rechtsextremismus, demokratie, rassismus, gewalt, antisemitismus, kampf, form, schutz, auseinandersetzung, struktur, engagement, aids, massnahmen, zivilgesellschaft, mitteln, menschenfeindlichkeit, bund, initiative, minderheit, bekämpfung
+
+
+
+47) Agrarpolitik und Tierschutz
+landwirtschaft, tier, landwirt, produkt, tierschutz, lebensmittel, agrarpolitik, produktion, umwelt, gentechnik, betrieb, eu, raum, tierhaltung, einsatz, förderung, markt, leistung, verbraucher, interesse
+
+
+
+48) Medien und Rundfunk
+medium, internet, rundfunk, urheberrecht, zugang, inhalt, information, werk, nutzung, interesse, angebot, urheber, netz, vielfalt, vergütung, presse, urheberinnen, fernsehen, welt, rahmenbedingung
+
+
+
+49) Gleichstellungspolitik
+dienst, ziel, gleichstellung, massnahmen, verwaltung, quote, gleichberechtigung, prozent, beruf, anteil, führungsposition, chancengleichheit, gender, geschlecht, ebene, hälfte, wirtschaft, regelung, gleichstellungspolitik, frauenanteil
+
+
+
+50) Kommunalpolitik
+kommune, bund, stadt, ort, region, aufgabe, raum, stadt_gemeinde, infrastruktur, daseinsvorsorge, ebene, entwicklung, gemeinde, projekt, hand, zukunft, selbstverwaltung, ziel, bürger, problem
+
+
+
+51) Drogenpolitik und -prävention
+droge, hilfe, drogenpolitik, cannabis, prävention, risiko, massnahmen, abgabe, sucht, alkohol, jugendschutz, schutz, beschaffungskriminalität, angebot, jugendliche, grundlage, zahl, strafverfolgung, problem, kriminalisierung
+
+
+
