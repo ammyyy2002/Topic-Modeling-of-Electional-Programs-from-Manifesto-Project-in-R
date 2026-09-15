@@ -4,7 +4,7 @@ library(tidytext)
 library(quanteda)
 
 # Verwendung eines persönlichen API-Keys
-mp_setapikey("C://projects/projektarbeit/manifesto_apikey.txt")
+mp_setapikey("../other_docs/manifesto_apikey.txt")
 
 # Bündnis 90/Die Grünen (41111, 41112, 41113), FDP (41420) und SPD (41320) ab 1994
 corp_regierung <- mp_corpus(
